@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 spotipy
 data
+spotipy/tests/
+spotipy/examples/test_request_timeout.py
